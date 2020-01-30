@@ -1,3 +1,5 @@
+#All in german / Alles auf deutsch
+
 import webbrowser
 from tkinter import *
 
