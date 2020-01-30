@@ -1,4 +1,4 @@
-#All in german / Alles auf deutsch
+#All for german / Alles auf deutsch
 
 import webbrowser
 from tkinter import *
