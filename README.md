@@ -4,3 +4,6 @@
 
 ## Linux:
 `python web.py`
+
+## Mac:
+Idk
