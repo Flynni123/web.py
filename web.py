@@ -22,9 +22,11 @@ tk.geometry("400x400")
 bwikipedia = Button(tk, text="Wikipedia", command=wikipedia)
 bgoogle = Button(tk, text="Google", command=google)
 blocalhost = Button(tk, text="Localhost", command=localhost)
+lnote = Label(tk, text="opens german websites")
 
 blocalhost.pack()
 bgoogle.pack()
 bwikipedia.pack()
+lnote.place(x=0, y=0)
 
 tk.mainloop()
